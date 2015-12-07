@@ -1,0 +1,2 @@
+# Real-time-Web-Application
+I have developed a real-time web application for "DEKALB COUNTY QUILTERS' GUILD", using PHP and SQL Server Management Studio. It aims to feature the quilting competition that happen in Dekalb County, and allows vistors to register for the same. It also features the winners of various previous competitions. The admin can work with the various reservations and payment information using this web application.  I designed the entity relationship model and developed the database for the same by normalizing the data tables.
